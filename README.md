@@ -6,11 +6,12 @@ PS: if you dont know what kawaii compiler is your most likely a skid attempting 
 OG link: https://github.com/RiisDev/Roblox-Executor-Sources/tree/main/2023%20Sources/kawaii%20compiler%20-%20Github/kawaii%20rbx%20compiler/kawaii%20compiler/kawaii%20rbx
 *the original account i had posted kc on was termed*
 
-# REQUIREMENT
+# REQUIREMENTS
 
 dll injector: https://github.com/speedstarkawaii/roblox-dll-injector 😱😱😱
+2 braincells or maybe 1 
+updating addresses OFC??? 
 
 # CREDITS
 luau: https://github.com/roblox/luau
-luastate: modded from ballistic
 rest: kawaii compiler 
